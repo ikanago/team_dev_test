@@ -1,2 +1,2 @@
-const a = 1 + 1;
+const a = 2 * 2;
 console.log(a);
